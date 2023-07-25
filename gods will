@@ -1,0 +1,5 @@
+return {
+	version = '2.0',
+	updated = '7/25/2023',
+	message = 'eliminate the disappearing element in dodgeball, where players get removed from the game when hit. Instead, let the game rely on accumulating kills as the primary factor for determining the winner.'
+}
